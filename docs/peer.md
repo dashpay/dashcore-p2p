@@ -1,5 +1,5 @@
 # Peer
-Represents a node from the p2p bitcoin network. The Peer class supports connecting directly to other nodes or through a socks5 proxy like Tor.
+Represents a node from the p2p Bitcoin network. The Peer class supports connecting directly to other nodes or through a socks5 proxy like Tor.
 
 ## Creating a peer
 The code to create a new peer looks like this:
@@ -71,7 +71,7 @@ peer.connect();
 ## Sending messages
 In order to send messages the Peer class offers the `sendMessage(message)` method, which receives an instance of a message. All supported messages can be found in the `Messages` module. For more information about messages refer to the [protocol specification](https://en.bitcoin.it/wiki/Protocol_specification).
 
-An example for requesting other connected nodes to a peers looks like this:
+An example for requesting other connected nodes to a peer looks like this:
 
 ```javascript
 var p2p = require('bitcore-p2p')

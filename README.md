@@ -7,7 +7,7 @@ Dashcore P2P
 
 `dashcore-p2p` adds Dash protocol support for Dashcore.
 
-See [the main dashcore repo](https://github.com/dashevo/dashcore) for more information.
+See [the main Dashcore repo](https://github.com/dashevo/dashcore) for more information.
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ Take a look at the [bitcore guide](http://bitcore.io/guide/peer.html) on the usa
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/dashevo/dashcore/blob/master/CONTRIBUTING.md) on the main dashcore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/dashevo/dashcore/blob/master/CONTRIBUTING.md) on the main Dashcore repo for information about how to contribute.
 
 ## License
 
