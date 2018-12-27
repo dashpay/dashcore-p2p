@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
-    "test": "gulp test:node",
+    "test": "mocha",
     "coverage": "gulp coverage",
     "build": "gulp"
   },
@@ -61,6 +61,7 @@
   "devDependencies": {
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
+    "mocha": "^5.2.0",
     "sinon": "^1.12.2"
   },
   "license": "MIT"
