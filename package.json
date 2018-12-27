@@ -59,10 +59,8 @@
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "@dashevo/dashcore-build": "git:github.com/dashevo/bitcore-build-dash#fix-name",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
-    "gulp": "^3.8.10",
     "sinon": "^1.12.2"
   },
   "license": "MIT"
