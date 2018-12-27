@@ -5,7 +5,7 @@
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
-    "lint": "gulp lint",
+    "lint": "eslint .",
     "test": "mocha",
     "coverage": "gulp coverage",
     "build": "gulp"
@@ -61,6 +61,9 @@
   "devDependencies": {
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
+    "eslint": "^5.11.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
     "mocha": "^5.2.0",
     "sinon": "^1.12.2"
   },
