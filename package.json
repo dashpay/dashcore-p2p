@@ -7,8 +7,7 @@
   "scripts": {
     "lint": "eslint .",
     "test": "mocha",
-    "coverage": "nyc mocha",
-    "build": "gulp"
+    "coverage": "nyc mocha"
   },
   "contributors": [
     {
