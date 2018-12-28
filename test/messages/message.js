@@ -3,7 +3,7 @@
 var should = require('chai').should();
 var P2P = require('../../');
 var Message = P2P.Messages.Message;
-var Networks = require('bitcore-lib-dash').Networks;
+var Networks = require('@dashevo/dashcore-lib').Networks;
 
 describe('Message', function() {
 
