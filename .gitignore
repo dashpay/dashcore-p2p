@@ -1,9 +1,9 @@
-*.sw[a-z]
-coverage
+# do not track dependencies
 node_modules
 
-npm-debug.log
-tests.js
+# ignore generated code coverage output
+coverage
+.nyc_output
 
-report
-.DS_Store
+# ignore build artifacts
+dist
