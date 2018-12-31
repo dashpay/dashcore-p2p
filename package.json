@@ -52,7 +52,7 @@
     "url": "https://github.com/dashevo/dashcore-p2p.git"
   },
   "dependencies": {
-    "@dashevo/dashcore-lib": "^1.0.0-alpha.23",
+    "@dashevo/dashcore-lib": "^1.0.0-alpha.24",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
