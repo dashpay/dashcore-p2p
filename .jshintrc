@@ -24,7 +24,7 @@
     "unused": true,       // Warn unused variables.
 
     "maxparams": 4,       // Maximum number of parameters for a function
-    "maxstatements": 15,  // Maximum number of statements in a function
+    "maxstatements": 17,  // Maximum number of statements in a function
     "maxcomplexity": 6,   // Cyclomatic complexity (http://en.wikipedia.org/wiki/Cyclomatic_complexity)
     "maxdepth": 4,        // Maximum depth of nested control structures
     "maxlen": 120,        // Maximum number of cols in a line

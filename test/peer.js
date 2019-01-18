@@ -118,7 +118,7 @@ describe('Peer', function() {
     peer2.proxy.host.should.equal('127.0.0.1');
     peer2.proxy.port.should.equal(9050);
     socket = peer2._getSocket();
-    socket.should.be.instanceof(Socks5Client);
+    socket.should.be.instanceof(Socks5Client.Socket);
 
     peer.should.equal(peer2);
   });

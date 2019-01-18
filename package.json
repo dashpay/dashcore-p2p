@@ -56,7 +56,7 @@
     "bloom-filter": "^0.2.0",
     "mocha": "^5.2.0",
     "node-buffers": "^0.1.1",
-    "socks5-client": "^0.3.6"
+    "socks5-client": "^1.2.6"
   },
   "devDependencies": {
     "brfs": "^1.2.0",
