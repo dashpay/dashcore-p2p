@@ -1,6 +1,6 @@
 {
   "name": "@dashevo/dashcore-p2p",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "Interface to the dash P2P network for Dashcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
