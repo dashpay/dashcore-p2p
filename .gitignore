@@ -4,6 +4,7 @@ node_modules
 # ignore generated code coverage output
 coverage
 .nyc_output
+.idea
 
 # ignore build artifacts
 dist
