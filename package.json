@@ -52,21 +52,21 @@
     "url": "https://github.com/dashevo/dashcore-p2p.git"
   },
   "dependencies": {
-    "@dashevo/dashcore-lib": "^0.16.5",
+    "@dashevo/dashcore-lib": "^0.17.6",
     "bloom-filter": "^0.2.0",
     "mocha": "^5.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^1.2.6"
   },
   "devDependencies": {
-    "brfs": "^1.2.0",
+    "brfs": "^1.6.1",
     "chai": "~1.10.0",
-    "eslint": "^5.11.1",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-import": "^2.18.0",
     "mocha": "^5.2.0",
-    "nyc": "^13.1.0",
-    "sinon": "^1.12.2"
+    "nyc": "^13.3.0",
+    "sinon": "^1.17.7"
   },
   "license": "MIT"
 }
