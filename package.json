@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "test": "mocha",
+    "test": "mocha './test/**/*.js'",
     "coverage": "nyc mocha"
   },
   "contributors": [
@@ -62,7 +62,7 @@
     "eslint": "^7.21.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
-    "mocha": "^5.2.0",
+    "mocha": "^8.3.0",
     "nyc": "^13.3.0",
     "sinon": "^7.2.2"
   },
